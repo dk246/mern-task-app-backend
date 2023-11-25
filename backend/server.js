@@ -17,6 +17,7 @@ app.use(
     origin: [
       "http://localhost:3000/",
       "https://mern-task-app-ms02.onrender.com",
+      "https://mern-task-app-api-loyn.onrender.com",
     ],
   })
 );
